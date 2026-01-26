@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Your Name Here
+# Jovani Guzman
 
 [Paste your professional paragraph from Week 2 here]
 
